@@ -1,0 +1,14 @@
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\Operator\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.AssemblyReference.cache
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\Operator\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\Operator\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\Operator\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\Operator\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.CoreCompileInputs.cache
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\Operator\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\Operator\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\Operator\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\Operator\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\Operator\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\Operator\Operators\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\Operator\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\Operator\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
+C:\Users\mobin\Desktop\TrueCoders\repos\csharp\Operator\Operators\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache
